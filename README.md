@@ -1,4 +1,4 @@
-# Neural-network-potentials-for-molecular-dynamics
+# Neural network forcefiled for molten salts
 
 NaCl.pb and FLiNaK.pb are neural network forcefields based on DeePMD framework for molecular dynamic simulaiton.
 Please cite the paper below upon using this potential:
