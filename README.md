@@ -1,4 +1,4 @@
-# Neural network forcefiled for molten salts
+# Neural network forcefied for molten salts
 
 NaCl.pb and FLiNaK.pb are neural network forcefields based on DeePMD framework for molecular dynamic simulaiton.
 Please cite the paper below upon using these potentials:
