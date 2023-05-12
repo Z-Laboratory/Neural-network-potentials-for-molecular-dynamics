@@ -2,7 +2,7 @@
 
 NaCl.pb and FLiNaK.pb are neural network forcefields based on DeePMD framework for molecular dynamic simulaiton.
 
-Updates: FLiNaK-CsF.pb are the newly trained DeePMD(v2.1.4) model (smooth version), we trained this model using VASP (PBE+vdw-DF) with T = 800~1200 K, CsF mol% = 1 ~ 9.
+Updates: FLiNaK-CsF.pb are the newly trained DeePMD(v2.1.4) model (smooth version), we trained this model using VASP (PBE+vdw-DF) with T = 800~1200 K, CsF mol% = 1 ~ 9. (Atom type: 1: F, 2: Li, 3: Na, 4: K, 5: Cs)
 
 Please cite the paper below upon using these potentials:
 
